@@ -1,4 +1,4 @@
-# fundr Africa
+crowd_funder
+============
 
-This is an application which allows individuals and organizations to crowd source funds
-*
+A platform for crowd sourcing funds in Africa
